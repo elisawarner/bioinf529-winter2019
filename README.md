@@ -7,14 +7,6 @@
 **Graduate Student Instructors**: 	Shengcheng Dong (shengchd@umich.edu)
                                     Marcus Sherman (mdsherm@umich.edu)
 
-**Class Schedule**: Mondays and Wednesdays 1:00 PM – 2:30 PM
-**Location**:  FSSC 2710, Medical Science II
-
-**Office Hours**: 1:00 PM – 2:30 PM
-**Location**:  2036 Palmer Commons
-
-**Prerequisites**: Upper level or graduate level Statistics or concurrent enrollment in Statistics; Calculus I & II; Biochemistry, Molecular Biology, or Cellular Biology; Programming; or permission of instructor.
-
 | No. | Date         | Topic	                                                                            | 
 |-----|--------------|------------------------------------------------------------------------------------|
 |1.   |We 1/9/19     | Introduction and Setup                                                             |
