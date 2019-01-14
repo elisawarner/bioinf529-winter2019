@@ -1,6 +1,8 @@
 # Bioinformatics 529 (3 Credit Lecture)
 # Bioinformatics Concepts and Algorithms
 
+hi
+
 **Course Masters**:  	Alan Boyle, Ph.D. (apboyle@umich.edu)  
                       Ryan Mills, Ph.D. (remills@umich.edu)
 
